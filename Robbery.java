@@ -14,7 +14,9 @@ public class Robbery {
 		int[] sizes,
 		int[] worths
 	) {
-		// fill in here, change the return
+		
+		int[] worths) {
+			// fill in here, change the return
 			return 0;
 	}
 
